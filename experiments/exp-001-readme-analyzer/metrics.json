@@ -1,0 +1,11 @@
+{
+  "experiment": "exp-001",
+  "started": "2026-01-30T19:37:00Z",
+  "last_updated": "2026-01-30T19:37:00Z",
+  "revenue": 0,
+  "traffic": 0,
+  "github_stars": 0,
+  "engagement": 0,
+  "cost": 0,
+  "notes": "Experiment initialized, hypothesis defined"
+}

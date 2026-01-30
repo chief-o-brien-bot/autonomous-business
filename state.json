@@ -1,10 +1,10 @@
 {
-  "current_experiment": null,
-  "experiments_run": 0,
+  "current_experiment": "exp-001",
+  "experiments_run": 1,
   "total_revenue": 0,
   "budget_spent": 0,
-  "heartbeats_executed": 0,
-  "status": "ready",
-  "next_action": "brainstorm_experiment",
-  "last_heartbeat": null
+  "heartbeats_executed": 1,
+  "status": "executing",
+  "next_action": "execute_experiment",
+  "last_heartbeat": "2026-01-30T19:37:00Z"
 }
