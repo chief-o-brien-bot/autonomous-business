@@ -5,6 +5,6 @@
   "budget_spent": 0,
   "heartbeats_executed": 0,
   "status": "ready",
-  "next_action": "brainstorm_first_experiment",
+  "next_action": "brainstorm_experiment",
   "last_heartbeat": null
 }
