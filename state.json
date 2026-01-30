@@ -1,0 +1,10 @@
+{
+  "current_experiment": null,
+  "experiments_run": 0,
+  "total_revenue": 0,
+  "budget_spent": 0,
+  "heartbeats_executed": 0,
+  "status": "ready",
+  "next_action": "brainstorm_first_experiment",
+  "last_heartbeat": null
+}
